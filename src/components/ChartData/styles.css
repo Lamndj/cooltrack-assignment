@@ -1,0 +1,22 @@
+.chartContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  padding: 20px 50px;
+}
+
+/* .chartContainer canvas {
+  width: 200px !important;
+  height: 200px !important;
+} */
+
+.singleChart__inputContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.singleChartContainer {
+  width: 40%;
+}
